@@ -5,16 +5,17 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
-
 import sentry from "@sentry/astro";
 import spotlightjs from "@spotlightjs/astro";
+
+import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
   integrations: [tailwind({
     applyBaseStyles: false
-  }), react(), sitemap(), sentry(), spotlightjs()],
+  }), react(), sitemap(), sentry(), spotlightjs(), icon()],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, {
       test: "Table of contents"

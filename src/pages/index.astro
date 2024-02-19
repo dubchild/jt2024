@@ -10,6 +10,8 @@ import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SOCIALS } from "@config";
 
+import { Icon } from 'astro-icon/components';
+
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
@@ -37,7 +39,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         My name is Jared Taylor and I am a designer and developer with over 20 years of experience. Here, you'll find a curated selection of case studies across various disciplines including web design, UX, e-commerce, marketing, parametric CAD and 3D product animations. 
       </p>
-      
+      <Icon name="jt3"/>
       <!-- <p>
         Read the blog posts or check
         <LinkButton
@@ -156,9 +158,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   .tilted{
     transform: rotate(-2deg) !important;
   }
-  /* svg, svg g *{
+  svg, svg g *{
     fill: var(--color-svg-logo) !important;
-  } */
+  }
   .loop-count {
     animation-delay: 3s !important;
     animation-iteration-count: 10 !important;
