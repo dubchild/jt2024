@@ -23,8 +23,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
-      <a
+      <!-- <h1>Welcome!</h1> -->
+      <!-- <a
         target="_blank"
         href="/rss.xml"
         class="rss-link"
@@ -39,15 +39,28 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path><circle cx="6" cy="18" r="2"></circle>
         </svg>
         <span class="sr-only">RSS Feed</span>
-      </a>
+      </a> -->
+      <div id="jtlottie" class="tilted pointer" onclick="ScrollTo('about')">
+        <!-- JT Lottie -->
+          <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" is:inline></script>
+          <lottie-player src="jt2.json"  background="transparent"  speed="0.85"  class="mx-auto element-shadow" style="width: 250px; height: 250px;" autoplay>
+          </lottie-player>
+        </div>
+        <div class="text-center mx-auto !delay-[10000ms] animate__animated animate__lightSpeedInLeft">
+          <h3 class="font-bold text-white">Jared Taylor:</h3>
+          <h4 class="font-bold text-white"><span class="underline"></span>Designer</h4>
+        </div>
+      <!-- delete below after placing images -->
 
+      <div class="size-full bg-black h-40 flex items-center justify-center text-white">
+        
+        [ image slot ]<!-- <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration"> -->
+      </div>
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        My name is Jared Taylor and I am a designer and developer with over 20 years of experience. Here, you'll find a curated selection of case studies across various disciplines including web design, UX, e-commerce, marketing, parametric CAD and 3D product animations. 
       </p>
-      <p>
+      
+      <!-- <p>
         Read the blog posts or check
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
@@ -55,7 +68,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         >
           README
         </LinkButton> for more info.
-      </p>
+      </p> -->
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
@@ -65,8 +78,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           </div>
         )
       }
+     
     </section>
-
+    
     <Hr />
 
     {
@@ -120,17 +134,16 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </LinkButton>
     </div>
   </main>
-
   <Footer />
 </Layout>
 
 <style>
   /* ===== Hero Section ===== */
-  #hero {
+  #hero, #more-about {
     @apply pb-6 pt-8;
   }
-  #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  #hero h1, #more-about h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-2xl;
   }
   #hero .rss-link {
     @apply mb-6;
@@ -138,14 +151,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   #hero .rss-icon {
     @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
   }
-  #hero p {
+  #hero p, #more-about p {
     @apply my-2;
   }
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
   }
   .social-links {
-    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+    @apply mb-1 mr-2 font-bold whitespace-nowrap sm:mb-0;
   }
 
   /* ===== Featured & Recent Posts Sections ===== */
@@ -159,5 +172,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   .all-posts-btn-wrapper {
     @apply my-8 text-center;
+  }
+
+
+  .tilted{
+    transform: rotate(-2deg) !important;
+  }
+  svg, svg g *{
+    fill: var(--color-svg-logo) !important;
+  }
+  .loop-count {
+    animation-delay: 3s !important;
+    animation-iteration-count: 10 !important;
+  }
+
+  .underline {
+    display: inline-block;
+    width: 60px;
+    border-bottom: 2px solid;
+    margin-right: .25em;
+    position: relative;
+    bottom: -.1em;
   }
 </style>

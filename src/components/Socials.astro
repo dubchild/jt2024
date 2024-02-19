@@ -11,6 +11,7 @@ const { centered = false } = Astro.props;
 ---
 
 <div class={`social-icons ${centered ? "flex" : ""}`}>
+  Nope. Just email me. 
   {
     SOCIALS.filter(social => social.active).map(social => (
       <LinkButton
