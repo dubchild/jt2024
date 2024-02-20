@@ -1,7 +1,7 @@
 ---
+title: Product Design - Mario Block Floating Shelf
 author: Jared Taylor
 pubDatetime: 2023-10-23T13:22:00Z
-title: Product Design - Mario Block Floating Shelf
 slug: "floating-shelf-product-design-case-study"
 featured: true
 draft: false
@@ -12,8 +12,10 @@ description:
   Exploring the domain of laser-cut design to create a floating-shelf product inspired by Super Mario blocks. Follow the project from start to finish.
 ---
 
-![img1](../../assets/images/mario_blocks/mario_block_collage1.png)
-<!-- ![img1](https://placehold.co/800x200/black/696969?text=...) -->
+![aa](@assets/images/mario_blocks/mario_block_collage1.png)
+
+
+![img1](https://placehold.co/800x200/black/696969?text=...)
 
 <!-- # PetArcade: Mario Block Floating Shelf Product -->
 
@@ -240,6 +242,6 @@ T
     }
     img {
     margin: 0em !important;
-    border: none !important;
+    /* border: none !important; */
   }
 </style>
