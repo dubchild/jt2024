@@ -12,8 +12,6 @@
     --color-card-muted: 205, 205, 205;
     --color-border: 236, 233, 233;
     --color-whiter: 255, 255, 255;
-    --color-svg-logo: 255,255,255;
-
   }
   html[data-theme="dark"] {
     --color-fill: 0, 1, 35;
@@ -23,7 +21,6 @@
     --color-card-muted: 12, 14, 79;
     --color-border: 48, 63, 138;
     --color-whiter: 255, 255, 255;
-    --color-svg-logo: 255,255,255;
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {

@@ -2,7 +2,7 @@
 import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
-
+import { Icon } from 'astro-icon/components';
 export interface Props {
   activeNav?: "posts" | "tags" | "about" | "search";
 }
@@ -14,19 +14,21 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
-      <a href="/" class="logo whitespace-nowrap">
-        {
+      <a href="/" class="logo whitespace-nowrap ">
+        <Icon name="logo2" class="tilted scale-0 transition-all origin-[left_center] duration-500 md:ml-2 icon-shadow"/>
+        <!-- {
           LOGO_IMAGE.enable ? (
             <img
               src={`/assets/${LOGO_IMAGE.svg ? "logo2.svg" : "logo.png"}`}
               alt={SITE.title}
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
+              class="fill-skin-accent"
             />
           ) : (
             SITE.title
           )
-        }
+        } -->
       </a>
       <nav id="nav-menu">
         <button

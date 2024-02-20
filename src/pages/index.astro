@@ -25,11 +25,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      
-        <!-- <div class="text-center mx-auto !delay-[10000ms] animate__animated animate__lightSpeedInLeft">
-          <h3 class="font-bold text-white">Jared Taylor:</h3>
-          <h4 class="font-bold text-white"><span class="underline"></span>Designer</h4>
-        </div> -->
       <!-- delete below after placing images -->
 
       <!-- <div class="size-full bg-black h-40 flex items-center justify-center text-white">
@@ -39,7 +34,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         My name is Jared Taylor and I am a designer and developer with over 20 years of experience. Here, you'll find a curated selection of case studies across various disciplines including web design, UX, e-commerce, marketing, parametric CAD and 3D product animations. 
       </p>
-      <Icon name="jt3" />
+      <Icon name="jt" class="tilted scale-0 transition-all origin-[left_center] duration-500 md:ml-2 icon-shadow"/>
       <!-- <p>
         Read the blog posts or check
         <LinkButton
@@ -158,9 +153,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   .tilted{
     transform: rotate(-2deg) !important;
   }
-  svg, svg g *{
-    fill: var(--color-svg-logo) !important;
-  }
+
   .loop-count {
     animation-delay: 3s !important;
     animation-iteration-count: 10 !important;
@@ -173,5 +166,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     margin-right: .25em;
     position: relative;
     bottom: -.1em;
+  }
+
+  .tilted {
+    @apply scale-100;
   }
 </style>
