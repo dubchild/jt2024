@@ -14,8 +14,8 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
-      <a href="/" class="logo whitespace-nowrap ">
-        <Icon name="logo2" class="tilted scale-0 transition-all origin-[left_center] duration-500 md:ml-2 icon-shadow"/>
+      <a href="/" class="logo whitespace-nowrap">
+        <Icon name="jt" class="tilted jt fill-skin-accent"/>
         <!-- {
           LOGO_IMAGE.enable ? (
             <img
@@ -29,7 +29,8 @@ const { activeNav } = Astro.props;
             SITE.title
           )
         } -->
-      </a>
+      </a> 
+      <!-- <span class="inline-block mx-10 w-1/2">_______ Designer</span> -->
       <nav id="nav-menu">
         <button
           class="hamburger-menu focus-outline"
@@ -129,7 +130,7 @@ const { activeNav } = Astro.props;
     @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-8;
   }
   .logo {
-    @apply absolute py-1 text-xl font-semibold sm:static sm:text-2xl;
+    /* @apply absolute py-1 text-xl font-semibold sm:static sm:text-2xl; */
   }
   .hamburger-menu {
     @apply self-end p-2 sm:hidden;
@@ -189,6 +190,13 @@ const { activeNav } = Astro.props;
   .menu-icon.is-active .close {
     @apply opacity-100;
   }
+
+  .jt{
+   scale: 200%;
+  }
+  .tilted{
+    transform: rotate(-2deg) !important;
+  }
 </style>
 
 <script>
@@ -214,4 +222,6 @@ const { activeNav } = Astro.props;
 
   // Runs on view transitions navigation
   document.addEventListener("astro:after-swap", toggleNav);
+
+
 </script>

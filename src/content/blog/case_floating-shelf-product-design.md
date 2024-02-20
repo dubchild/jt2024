@@ -1,20 +1,20 @@
 ---
 author: Jared Taylor
 pubDatetime: 2023-10-23T13:22:00Z
-title: Product - Mario Block Floating Shelf
-postSlug: floating-shelf-product-design-case-study
+title: Product Design - Mario Block Floating Shelf
+slug: "floating-shelf-product-design-case-study"
 featured: true
 draft: false
 tags:
-  - case study
-  - product design
+  - case-study
+  - product-design
 description:
-  Exploring the design of a laser-cut floating shelf product fromt start to finish.
+  Exploring the domain of laser-cut design to create a floating-shelf product inspired by Super Mario blocks. Follow the project from start to finish.
 ---
-![img1](https://placehold.co/800x200/black/696969?text=...)
-<!---
-![Alt text](../../assets/images/petarcade-banner.png)
- --->
+
+![img1](../../assets/images/mario_blocks/mario_block_collage1.png)
+<!-- ![img1](https://placehold.co/800x200/black/696969?text=...) -->
+
 <!-- # PetArcade: Mario Block Floating Shelf Product -->
 
 ***A Commission That Inspired A Whole Product Line***
@@ -37,6 +37,7 @@ In the summer of 2023 I ***recieved a message on Etsy from a stranger*** that lo
 
 I grabbed my sketchbook and ***revisited my original sketches.*** I reworked them by applying prototyping and planning skills I learned from previous projects. The result was a very rough idea that was good enough to get the greenlight. I ***designed 6 elements*** including my warp pipe scratchers.
 ![img1](../../assets/images/mario_blocks/sketch1.jpg)
+![img1](@assets/images/mario_blocks/sketch1.jpg)
 <!-- ![img1](https://placehold.co/800x400/black/696969?text=...)
 ***Collage of all aspects of the project.*** -->
 

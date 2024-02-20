@@ -1,18 +1,18 @@
 ---
 author: Jared Taylor
 pubDatetime: 2023-09-27T15:22:00Z
-title: Intentional Consultants Scheduling Redesign
-postSlug: intentional-consultants-scheduling-redesign
+title: "Intentional Consultants: Scheduling Redesign"
+slug: "intentional-consultants-scheduling-redesign"
 featured: true
 draft: false
 tags:
-  - case studies
-  - hugs
+  - case-study
+  - www
 description:
-  Streamlining the on-boarding experience for new clients.
+  Streamlining the on-boarding experience for prospective clients of a business coaching and consulting business. Sometimes a low-tech solution is the right answer for right now.
 ---
 ![Alt text](../../assets/images/intentional/ic-banner.png)
-# Intentional Consultants: Scheduling Redesign
+<!-- # Intentional Consultants: Scheduling Redesign -->
 
 ## Table of contents
 
