@@ -15,11 +15,11 @@ description:
 ![aa](@assets/images/mario_blocks/mario_block_collage1.png)
 
 
-![img1](https://placehold.co/800x200/black/696969?text=...)
+<!-- ![img1](https://placehold.co/800x200/black/696969?text=...) -->
 
 <!-- # PetArcade: Mario Block Floating Shelf Product -->
 
-***A Commission That Inspired A Whole Product Line***
+>***This Commission Inspired A Whole Product Line***
 
 <!-- #### missing images: (16) #### -->
 <!-- - banner (1)
@@ -34,23 +34,50 @@ description:
 - whats next
 - final thoughts -->
 
-### **Summary**
-In the summer of 2023 I ***recieved a message on Etsy from a stranger*** that loved my cat scratchers and wanted to know if I could design a cat wall for her. (Yeah!) I already had years of prototypes and sketches of shelf designs. I had a strong affinity for the aesthetics of invisible floating shelves, so ***I had a strong vision of how the shelves would work.***
+### **Tools**
+- Boxes.py box maker
+- Fusion 360
+- Mapboards Pro ***(plugin)***
+- Affinity Designer
+- Table-saw, router & hand tools
+- Glowforge laser
 
-I grabbed my sketchbook and ***revisited my original sketches.*** I reworked them by applying prototyping and planning skills I learned from previous projects. The result was a very rough idea that was good enough to get the greenlight. I ***designed 6 elements*** including my warp pipe scratchers.
+### **Skills**
+- 3D Modeling
+- Parametric Design
+- Kerf-correction
+- Color-matching
+- Staining & Finishing
+- Production Cost Analysis
+
+### **Timeline**
+
+Overall: 8 weeks (June-October, 2023)
+
+Design & Research: 4 weeks
+
+Prototyping: 4 weeks
+
+### **TL;DR**
+A stranger emailed me about making a cat wall based on Mario blocks. I accepted the challenge and designed a line of products for my Etsy store based on her commision. I have sold over 30 blocks since launching the products during Black Friday weekend. This is how I did it.
+### **Summary**
+In the summer of 2023 I ***recieved a message on Etsy from a stranger*** that loved my cat scratchers and wanted to know if I could design a cat wall for her. The answer was an emphatic YES! I already had years of prototypes and sketches of shelf designs and a pile of unused shelf brackets. The aesthetics of invisible floating shelves appeal to me so ***I had a complete vision of how the shelves would work.***
+
+I grabbed my sketchbook and ***revisited my original sketches.*** I applied prototyping and planning skills I learned from previous personal projects. The result was a very rough idea that was good enough to get the greenlight. I ***designed 6 elements*** including my warp pipe scratchers.
 ![img1](../../assets/images/mario_blocks/sketch1.jpg)
-![img1](@assets/images/mario_blocks/sketch1.jpg)
 <!-- ![img1](https://placehold.co/800x400/black/696969?text=...)
 ***Collage of all aspects of the project.*** -->
 
 ### **Problem**
-My ***client had an entire wall of her home that she wanted to be covered in these blocks.*** Before I even started designing any parts, I told her that a 6 piece set from my sketch would ***cost approximately $400.*** She was completely unfazed by my estimation that it would also ***take several months*** to complete the project. 
+My ***client had an entire wall of her home that she wanted to be covered in these blocks.*** Before I even started designing any parts, I told her that a 6 piece set based on my sketch would ***cost approximately $400.*** but I would do my best to keep the cost down. She was completely unfazed by my estimation that it would also ***take several months*** to complete the project. I couldn't ask for a more accomodating client.
 ![alt text](../../assets/images/mario_blocks/client-msg1.png) 
 ![Alt text](../../assets/images/mario_blocks/client-msg2.png)
 
-With nothing but raw encouragement, I made a list of design constraints and issues I anticipated. The scope of the project quickly made it clear to me that this had to be treated like a full product - and possibly an extended line of themed products that I could sell to other people.
+With nothing but raw encouragement, and a few sketches, I made a list of design constraints and issues I anticipated. The scope of the project quickly made it clear to me that this would have to be treated like a full product - and possibly an extended line of themed products that I could sell to other people. The client was kept in the loop during the 3 months it took to go from sketch -> 3D model -> prototypes -> final product.
 
-There was no way I was going to put this much effort into a one-off art piece! ***It had to be reproducible and preferably scalable.*** This thing needed to be printable. Having the ability to print duplicates at will ensures quick turn-around and helps minimize costs. With that in mind, I would also ***source as much material as possible locally.*** 
+You see, there was no way I was going to put this much effort into a one-off art piece! I've done that before and I learned that art and product are not the same. ***It had to be reproducible and preferably scalable, and easy to modify.*** Essentially, this thing needed to be **printable.** Having the ability to print duplicates at will ensures quicker turn-around and helps minimize costs. With that in mind, I would also ***source as much material as possible locally.***
+
+>Essentially, this thing needed to be **printable.**
 
 #### Constraints: ####
 - rigid cube
@@ -97,32 +124,6 @@ I used boxes.py generated a scale model of shapes2 brick faces that I After a fe
 
 #### Kerf-Correction ####
 After achieving **Parametric Nirvana**, the next step was generating cut sheets that automatically account for the width of the laser beam and the space it leaves. There are several ways to do this but the tedious nature of it led me to find a **plugin** that does both operations at once. Figuring out this step helped relieve some anxiety and sped up production by a factor of 3! Shout out to **Mapboards Pro!**
-
-### **Tools**
-
-- Boxes.py box maker
-- Fusion 360
-- Mapboards Pro ***(plugin)***
-- Affinity Designer
-- Table-saw, router & hand tools
-- Glowforge laser
-
-### **Skills**
-
-- 3D Modeling
-- Parametric Design
-- Kerf-correction
-- Color-matching
-- Staining & Finishing
-- Production Cost Analysis
-
-### **Timeline**
-
-Overall: 8 weeks (June-October, 2023)
-
-Design & Research: 4 weeks
-
-Prototyping: 4 weeks
 
 **The Design Process**
 
@@ -208,29 +209,7 @@ If you'd like to get in touch contact **jaredtaylor5446@gmail.com**.
 
 ***PetArcade is a business that I created for selling hand-crafted amusements for cats AKA "cat toys." I started selling a couple different sisal rope scratchers based on elements from the world of Mario.***
 
-E
-N
-D
-
-OF
-
-P
-O
-S
-T
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+#### If you have read this far and are interested in acquiring some of these shelves, you are in luck! Visit PetArcade on Etsy and use the code MARIOPARTY for 20% off your order. Thanks!
 
 <style>
     .place {

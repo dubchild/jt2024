@@ -11,7 +11,7 @@ const { centered = false } = Astro.props;
 ---
 
 <div class={`social-icons ${centered ? "flex" : ""}`}>
-  None. Just email me. 
+  Null. Just email me ->
   {
     SOCIALS.filter(social => social.active).map(social => (
       <LinkButton
@@ -25,7 +25,7 @@ const { centered = false } = Astro.props;
     ))
   }
 </div>
-
+<a href="" target="_blank"></a>
 <style>
   .social-icons {
     @apply flex-wrap justify-center gap-1 items-center;

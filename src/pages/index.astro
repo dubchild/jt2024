@@ -31,8 +31,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         
         [ image slot ]
       </div> -->
+      <h1>Tinker...Tailor...Solder...Try </h1>
       <p>
-        Jared Taylor is a designer and developer with over 20 years of experience. This is selection of case studies spanning various disciplines including web design, UX, e-commerce, marketing, parametric CAD and 3D product animations. 
+        Jared Taylor is a designer, developer and maker with over 20 years of experience. This is selection of case studies spanning various disciplines including web design, UX, e-commerce, marketing, electronics, animation, parametric CAD and 3D modeling. Not every project works out but I'm always learning and trying new things. My latest obsession is learning Blender so I can make my own product renders and animations. 
       </p>
       <!-- <Icon name="jt" class="tilted scale-0 transition-all origin-[left_center] duration-500 md:ml-2 icon-shadow"/> -->
       <!-- <p>
@@ -48,7 +49,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            <div class="social-links">Socials:</div>
             <Socials />
           </div>
         )
@@ -111,7 +112,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   </main>
   <Footer />
 </Layout>
-
+<div class="grid grid-cols-2 gap-4">
+  <div class="bg-red-500">01</div>
+  <div class="bg-blue-500">02</div>
+</div>
 <style>
   /* ===== Hero Section ===== */
   #hero, #more-about {
