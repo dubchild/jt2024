@@ -7,7 +7,7 @@ slug: predefined-color-schemes
 featured: false
 draft: false
 tags:
-  - color-schemes
+  - color schemes
 description:
   Some of the well-crafted, predefined color schemes for AstroPaper blog
   theme.

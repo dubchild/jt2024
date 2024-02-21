@@ -6,7 +6,7 @@ slug: "intentional-consultants-scheduling-redesign"
 featured: true
 draft: false
 tags:
-  - case-study
+  - case study
   - www
 description:
   Streamlining the on-boarding experience for prospective clients of a business coaching and consulting business. Sometimes a low-tech solution is the right answer for right now.

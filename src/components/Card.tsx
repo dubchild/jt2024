@@ -1,6 +1,7 @@
 import { slugifyStr } from "@utils/slugify";
 import Datetime from "./Datetime";
 import type { CollectionEntry } from "astro:content";
+import Hr from "@components/Hr.astro";
 
 
 export interface Props {
@@ -35,10 +36,10 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
       <div class="text-sm">{
           tags && (
             <div class="flex flex-wrap gap-1 py-2">
-            <span class="tag-title font-extrabold uppercase text-offset">Tagged:</span>
+            {/* <span class="tag-title font-extrabold uppercase text-offset">Tags:</span> */}
             {tags?.map((tag) => (
               <span class="tag px-1 py-0 text-zinc-900 rounded-md transition w-fit"> 
-             <a href={"/tags/"+tag}> {tag}</a>
+             <a href={"/tags/"+slugifyStr(tag)}> #{tag}</a>
               </span>
             ))}
             </div>
@@ -46,5 +47,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           }
         </div>
     </li>
+  
   );
 }
+<Hr/>

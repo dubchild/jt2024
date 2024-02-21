@@ -17,4 +17,3 @@ Hello everyone! Wishing you a happy New Year 🎉 and all the best for 2024! We'
 ## Table of contents
 
 ## Major Changes
-

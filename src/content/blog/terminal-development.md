@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - ReactJS
   - ContextAPI
-  - Styled-Components
+  - Styled Components
   - TypeScript
 description:
   "EXAMPLE POST: Developing a terminal-like website using ReactJS, TypeScript and Styled-Components.

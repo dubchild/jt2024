@@ -1,13 +1,13 @@
 ---
-title: Product Design - Mario Block Floating Shelf
+title: Super Mario Block Floating Shelf 
 author: Jared Taylor
 pubDatetime: 2023-10-23T13:22:00Z
 slug: "floating-shelf-product-design-case-study"
 featured: true
 draft: false
 tags:
-  - case-study
-  - product-design
+  - case study
+  - product design
 description:
   Exploring the domain of laser-cut design to create a floating-shelf product inspired by Super Mario blocks. Follow the project from start to finish.
 ---
@@ -63,7 +63,7 @@ A stranger emailed me about making a cat wall based on Mario blocks. I accepted 
 ### **Summary**
 In the summer of 2023 I ***recieved a message on Etsy from a stranger*** that loved my cat scratchers and wanted to know if I could design a cat wall for her. The answer was an emphatic YES! I already had years of prototypes and sketches of shelf designs and a pile of unused shelf brackets. The aesthetics of invisible floating shelves appeal to me so ***I had a complete vision of how the shelves would work.***
 
-I grabbed my sketchbook and ***revisited my original sketches.*** I applied prototyping and planning skills I learned from previous personal projects. The result was a very rough idea that was good enough to get the greenlight. I ***designed 6 elements*** including my warp pipe scratchers.
+With sketchbook in-hand, I ***revisited my original sketches.*** I applied prototyping and planning processes I developed from previous personal projects. The result was a very rough idea that was good enough to get the greenlight. I ***planned out 6 elements***, including my warp pipe scratchers. Several ideas did not make the cut but were still worthwhile explorations.
 ![img1](../../assets/images/mario_blocks/sketch1.jpg)
 <!-- ![img1](https://placehold.co/800x400/black/696969?text=...)
 ***Collage of all aspects of the project.*** -->
