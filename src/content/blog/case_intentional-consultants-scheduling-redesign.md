@@ -9,22 +9,19 @@ tags:
   - case study
   - www
 description:
-  Streamlining the on-boarding experience for prospective clients of a business coaching and consulting business. Sometimes a low-tech solution is the right answer for right now.
+  A loyal customer asked for help streamlining the scheduling/on-boarding experience for prospective clients. 
 ---
 ![Alt text](../../assets/images/intentional/ic-banner.png)
-<!-- # Intentional Consultants: Scheduling Redesign -->
-
 ## Table of contents
 
-## *Streamlining the on-boarding experience for new clients.*
+## *Streamlining the on-boarding experience*
 
-####missing images:####
-design process (1)
+<!-- design process (1)
 interview results or questions (1)
 persona gallery (3)
 user journey flowchart (3)
 pencil wireframe sketches (3) 
-before/after screen slider widget? (2)
+before/after screen slider widget? (2) -->
 
 
 ### **Summary**
@@ -48,10 +45,10 @@ At that point it was clear that our **low-tech solution** was the **superior cho
 <!-- - Uxfolio
 - Behance -->
 
-### **Team**
+<!-- ### **Team**
 
 - Jarrod Hurt - UX designer
-- Jared Taylor - UX designer
+- Jared Taylor - UX designer -->
 
 ### **Timeline**
 

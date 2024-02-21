@@ -6,40 +6,23 @@ slug: "intentional-consultants-website-audit"
 featured: true
 draft: false
 tags:
-  - case-study
+  - case study
+  - figma
+  - user testing
+  - personas
   - www
 description:
-  Streamlining the on-boarding experience for new clients.
+  A rapidly-growing consulting company requested a full audit of their site's interface, and usability to make the experience more effective.
 ---
 ![Alt text](../../assets/images/intentional/ic-banner.png)
 # Intentional Consultants: Website Audit
 
 ## Table of contents
 
-## *Streamlining the on-boarding experience for new clients.*
 
-####missing images:####
-design process (1)
-interview results or questions (1)
-persona gallery (3)
-user journey flowchart (3)
-pencil wireframe sketches (3) 
-before/after screen slider widget? (2)
+## TL;DR
 
-
-### **Summary**
-
-After working on several projects for a highly successful business **coaching and consulting business**, the CEO contacted us about evaluating the **scheduling features** on their site. Since there had been **ZERO sign-ups for months**, she was concerned that it was broken.
-
-### **Problem**
-
-During a previous review we compiled a list of general notes and suggestions regarding the scheduling feature. The main issue we noticed was that the company's schedule was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the label indicated.
-
-### **Solution**
-
-Our initial suggestion was to use a more streamlined and user-friendly scheduling service that would also save them hundreds of dollars a year. Alternatively, we discussed a back-up plan that only required a simple form to collect contact info. While discussing options, the CEO indicated that she was in the middle of reorganizing the corporate structure and **didn't want to change anything** about their internal scheduling any time soon. 
-
-At that point it was clear that our **low-tech solution** was the **superior choice for the client**. We determined that it was important not to replace or disrupt their internal scheduling system. **Anticipating the needs of our client paid off** because we already had a basic plan drawn up that could implemented immediately. Our solution would be limited to **minor improvements** to their website and workflow. We focused our efforts on a design that **captures contact information** without invoking an automated scheduling service at all. For an added **personal touch**, a designated employee will follow-up with the prospective client directly.
+I did an extensive site audit that produced a blueprint for the client to approve and share with their developers. I collected existing personas, crafted user journeys, and interviewed people representing a variety of roles.
 
 ### **Tools**
 
@@ -48,10 +31,10 @@ At that point it was clear that our **low-tech solution** was the **superior cho
 <!-- - Uxfolio
 - Behance -->
 
-### **Team**
+<!-- ### **Team**
 
 - Jarrod Hurt - UX designer
-- Jared Taylor - UX designer
+- Jared Taylor - UX designer -->
 
 ### **Timeline**
 
@@ -60,6 +43,20 @@ Overall: 6 weeks (July-October, 2023)
 Discovery & Research: 4 weeks
 
 Design: 2 weeks
+
+### **Summary**
+
+After working on several projects for a highly successful business **coaching and consulting business**, the CEO contacted us about evaluating the **scheduling features** on their site. Since there had been **ZERO sign-ups for months**, she was concerned that it was broken.
+
+### **Problem**
+
+During a previous discussion we compiled a list of general notes and suggestions regarding the scheduling feature. The main issue we noticed was that the company's schedule was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the label indicated.
+
+### **Solution**
+
+Our initial suggestion was to use a more streamlined and user-friendly scheduling service that would also save them hundreds of dollars a year. Alternatively, we discussed a back-up plan that only required a simple form to collect contact info. While discussing options, the CEO indicated that she was in the middle of reorganizing the corporate structure and **didn't want to change anything** about their internal scheduling any time soon. 
+
+At that point it was clear that our **low-tech solution** was the **superior choice for the client**. We determined that it was important not to replace or disrupt their internal scheduling system. **Anticipating the needs of our client paid off** because we already had a basic plan drawn up that could implemented immediately. Our solution would be limited to **minor improvements** to their website and workflow. We focused our efforts on a design that **captures contact information** without invoking an automated scheduling service at all. For an added **personal touch**, a designated employee will follow-up with the prospective client directly.
 
 **The Design Process**
 
