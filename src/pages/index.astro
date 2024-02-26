@@ -38,7 +38,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <small><em>
         Not every project works out but I'm always learning and trying new things. My latest obsession is learning Blender and Geometry Nodes so I can produce renders and animations for my custom furniture side-hustle.</em>
       </small>  
-
+      
+      <div class="mt-4 m-auto text-sm ">
+        Contact Me: <a href="mailto:jaredtaylor5446+blog@gmail.com" class="font-bold">jaredtaylor5446+blog@gmail.com</a>
+      </div>
       <!-- <Icon name="jt" class="tilted scale-0 transition-all origin-[left_center] duration-500 md:ml-2 icon-shadow"/> -->
       <!-- <p>
         Read the blog posts or check
@@ -49,16 +52,15 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           README
         </LinkButton> for more info.
       </p> -->
-      {
-        // only display if at least one social link is enabled
+      <!-- { -->
+        <!-- // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Socials:</div>
             <Socials />
           </div>
         )
       }
-     
+      -->
     </section>
     
     <Hr />

@@ -11,7 +11,7 @@ const { centered = false } = Astro.props;
 ---
 
 <div class={`social-icons ${centered ? "flex" : ""}`}>
-  <span class="font-bold">Socials: </span>Null. Just <a href="mailto:jaredtaylor5446+blog@gmail.com" class="mailme">email</a> me. ->
+  <span class="font-bold">Socials: </span>Null. Just <a href="mailto:jaredtaylor5446+blog@gmail.com" class="mailme"></a> ->
   {
     SOCIALS.filter(social => social.active).map(social => (
       <LinkButton
@@ -25,26 +25,20 @@ const { centered = false } = Astro.props;
     ))
   }
 </div>
-
+<a href="" target="_blank"></a>
 <style>
- .social-icons {
+  .social-icons {
     @apply flex-wrap justify-center gap-1 items-center;
   }
   .link-button {
     @apply p-2 hover:rotate-6 sm:p-1;
   }
-
-  .mailme {
-    @apply underline decoration-dashed hover:underline;
+  .mailme:hover {
+    @apply text-skin-accent;
+  }
+  .mailme:hover {
+  @apply text-skin-accent;
   }
 </style>
-
-
-
-
-
-
-
-
 
 
