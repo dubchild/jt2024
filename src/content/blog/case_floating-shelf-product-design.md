@@ -193,12 +193,12 @@ After achieving **Parametric Nirvana**, the next step was generating cut sheets 
 -----------
 
 ### Production:
-During the prototype phase I determined that each face would take about 4 minutes to cut. Engraving the brick faces would take about an hour each. I tried everything I could think of to reduce this time but the engrave quality went down as I increased the speed. I needed the bricks to feature a raised surface, and a contrasting matte texture representing the mortar between the bricks. I experimented with defocusing the laser to shape the beam wider, which gave a steeply angled 3D-edge that enhanced the overall aesthetic by catching highlights. 
+During the prototype phase, I determined that each face would take about 4 minutes to cut. Engraving the brick faces would take about an hour each. I tried everything I could think of to reduce this time but the engrave quality went down as I increased the speed. I needed the bricks to feature a raised surface, and a contrasting matte texture representing the mortar between the bricks. I experimented with defocusing the laser to shape the beam wider, which gave a steeply angled 3D-edge that enhanced the overall aesthetic by catching highlights. 
 
 ![img1](https://placehold.co/800x200/black/696969?text=Brick_Depth_Closeup)
 
-#### Design Changes 
-As we know, a full cube has 6 sides, but with the back side  of these shelves facing the wall, ***I was convinced that I didn't need a back face.*** I could further reduce production time by using an unfinished plywood face for the top that didn't need engraved. At this point I changed the design to add 1/4" stablized cork on top to give cats a softer landing. The cork also provides a nice surface for engraving my logo and anything else the customer wants. Eliminating 2 finished faces from the product reduced production time and overall cost. Instead of 6 faces, now I only had to deal with 4 engraved plywood faces.
+#### Adjustments 
+As we know, a full cube has 6 sides, but with the back side of these shelves facing the wall, ***I was convinced that I didn't need a back face.*** I could further reduce production time by using an unfinished plywood face for the top that didn't need engraved. At this point I changed the design to add 1/4" stablized cork on top to give cats a softer landing. The cork also provides a nice surface for engraving my logo and anything else the customer wants. Eliminating 2 finished faces from the product reduced production time and overall cost. Instead of 6 faces, now I only had to deal with 4 engraved plywood faces.
 
 #### Re-sawing Plywood
 Plywood is much cheaper if you buy full sheets and re-saw it yourself. The alternative is buying pre-cut panels that can run up to $20 per 12"x20" sheet. One block would take at least 4 sheets of material and cost over $80 in raw materials, leaving lots of waste and no room for profit. _Booooooooo!_
