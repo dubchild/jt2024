@@ -13,7 +13,9 @@ description:
 ---
 ![img1](https://placehold.co/800x200/black/696969?text=New_Block_Collage)
 <!-- ![aa](@assets/images/mario_blocks/mario_block_collage1.png) -->
-### A stranger emailed me about making a cat wall based on Mario blocks. I accepted the challenge and designed a line of products for my Etsy store based on her commission. Since Black Friday, I have sold almost 30 blocks to more than a dozen satisfied customers. This is how I did it...
+### In the summer of 2023 I recieved a message from a stranger (YC) on Etsy that liked my products. YC wanted to know if I could design a cat wall for her based on Super Mario blocks. She wanted to commission a whole set, with the possibility to add more pieces later. My answer was an emphatic **'YES!'** 
+
+I accepted the challenge and designed a line of products for my Etsy store. I have sold over 30 blocks to more than a dozen satisfied customers. This is how I did it...
 
 ![alt text](../../assets/images/mario_blocks/client-msg1.png) 
 
@@ -52,9 +54,6 @@ Prototyping: 4 weeks
 Production: 1 week 
 
 Yield: 10 boxes from one sheet of plywood
-_____________
-### **Summary**
-In the summer of 2023 I ***recieved a message from a stranger (YC) on Etsy*** that liked my products. She wanted to know if I could design a cat wall for her based on Super Mario blocks. She indicated that she wanted a whole set now, with the possibility to add more pieces later. My answer was an emphatic **'YES!'** 
 _____________
 ### **Problem**
 ***YC had a wall in her home that she wanted covered in Mario blocks*** so her cats can jump around like they're in the game. Before I even started designing the blocks, I estimated that a 6 piece set based on my first sketch would ***cost up to $400, but that she didn't have to buy all of them at once.*** She was also completely unfazed by my estimation that it would also ***take several months*** to complete the project. I couldn't ask for a more accommodating and patient client. She was kept in the loop during the 3 months it took to go from sketch -> 3D model -> prototypes -> final product. 
@@ -157,7 +156,7 @@ I needed to do hands-on research to get the colors right. First, I took scraps o
 
 My search led me to a line of translucent stains that comes in a rainbow of 200 colors. The product is a bit tricky to use but really highlights the natural wood grain and is totally worth it. I polled my braintrust, and we decided on a burnt orange/red color called **Spice** for the bricks, and **Daffodil** for the yellow question block. Water-based stains dry faster, produce less fumes and are much better for the environment than other options. The translucent stain also **adds natural variation to the bricks**, making each block unique. Sold.
 
-[_During the production of the prototype blocks, a new game called "Super Mario Wonder" was released that featured the classic question block dressed up in PINK. I consulted the color list and made another trip to the hardware store to pick up **Pink!** stain to make it happen too!_]
+[_During the production of the prototype blocks, a new game called "Super Mario Wonder" was released that featured the classic question block dressed up in PINK. I consulted the color list and made another trip to the hardware store to pick up **Perfectly Pink** stain to make it happen too!_]
 
 ![img1](https://placehold.co/800x200/black/696969?text=SM_Wonder_Pink?)
 
@@ -169,7 +168,7 @@ In the case of the brick pattern, I stain the panels first, apply masking to bot
 ----------
 
 ### Parametric Design
-For the last 4 years I have been obsessed with the power of parametric design and this project really allowed me to improve my skills. Many packages offer a form of parametrics, but **Autodesk Fusion 360** is a favorite CAD package among woodworkers. Using variables and mathematic formulas to build **parametric relationships** rather than relying solely on static dimensions, you can generate cut files from complex 3D designs at any physical dimension and aspect ratio. 
+For the last 4 years I have been obsessed with the power of parametric design and this project really allowed me to improve my skills. Many packages offer a form of parametric control, but **Autodesk Fusion 360** is a favorite CAD package among woodworkers. Using variables and mathematic formulas to build **parametric relationships** rather than relying solely on static dimensions, I'm able to generate cut files from complex 3D designs, at any scale. 
 
 #### Goals
 The specific end goal is to have a **single parametric design** that can be edited to generate cut files at any scale. The parts **must be repeatable** and be able to adjust designs for materials of varying thicknesses. You see, the thickness of the material controls the inner dimensions of perpendicular fingers and holes and those dimensions will change when you adjust the material thickness.
@@ -177,18 +176,20 @@ The specific end goal is to have a **single parametric design** that can be edit
 #### Finger-joints
 Finger-joints are the go-to method of building laser-cut boxes. Ideally, they should **snap-fit** together with minimal effort. There are many tools and plugins that can be used but none of them gave me enough control over the spacing and alignment. When done correctly, you don't even HAVE to use glue, but I do anyway. 
 
-I learned how to **generate them parametrically.**  I devised formulas that scale perfectly and generate parts that snap together with a tight fit no matter what the outer dimensions are. What this means is: **My design scales to any size I want, while maintaining all position and sizing relationships.** :) 
+I learned how to **generate them parametrically.**  I devised formulas that scale perfectly and generate parts that snap together with a tight fit no matter what the outer dimensions are. What this means is: **My design scales to any size I want, while maintaining all position and sizing relationships.** 
 
 #### Brick Pattern
-Most examples I found on the web **lazily repeat the front face** but if you look at the 3D games closely there is a **second pattern** that is revealed on 2 opposing sides. I developed a second algorithm to generate the desired pattern and spacing for the alternate bricks. The math is a lot more difficult than it appears at first glance. It gave me some headaches, but it forced me to  **learn how to think parametrically** and work smarter in Fusion 360. 
+The examples I found on the web often **lazily repeat the front face** but if you look at the 3D games closely there is **another pattern** that is revealed on 2 opposing sides. I developed a second algorithm to generate the desired pattern and spacing for the side panels. The math is a lot more difficult than it appears at first glance. It gave me some headaches, but it forced me to  **learn how to think parametrically** and work smarter in Fusion 360. 
 
-The front/top/bottom/back panels could all be the same face, whereas the sides needed to be a complementary pattern that would make sense if the individual bricks were real 3D objects. Early in the process it was obvious that the brick pattern had to be balanced with the finger-joint placement, otherwise the design looked messy. The question block could be made just by removing the brick pattern and substituting the question mark and rivets. At this point
+It turns out the front/top/bottom/back panels could all be the same face, whereas the sides needed to be a complementary pattern that would make sense if the individual bricks were real 3D objects. Early in the process it was obvious that the brick pattern had to be balanced with the finger-joint placement, otherwise the design looked messy. The question block could be made just by removing the brick pattern and substituting the question mark and rivets. At this point
 
 #### Scaling 
-Once I was satisfied with my 3D model, I doubled the x, y, z dimensions from 100mm to the final dimension of 200mm. I was thrilled beyond belief that I had **achieved a file that scaled perfectly!** I celebrated by printing a full-size box out of 5mm cardboard and proceeded to do a little dance. :) 
+Once I was satisfied with my 3D model, I doubled the x, y, z dimensions from 100mm to the final dimension of 200mm. I was thrilled beyond belief that I had **achieved a file that scaled perfectly!** I celebrated by printing a full-size box out of 5mm cardboard and did a little dance. 
 
 #### Kerf-Correction
-After achieving **Parametric Nirvana**, the next step was generating cut sheets that automatically account for the width of MY specific laser beam and the space it leaves after cutting. Because of the way lasers work, if you want tight fits, you have to offset the fingers and hole outlines by half of the kerf-width. There are several ways to do this but the tedious nature of it led me to find a **plugin** that does both operations at once. Hundredths of an inch or millimeter can make or break a **snap-fit finger-joint** project. Figuring out this step helped relieve some anxiety and sped up production by a factor of 3! Shout out to **Mapboards Pro!**
+After achieving **Parametric Nirvana**, the next step was generating cut sheets that automatically account for the width of MY specific laser beam and the space it leaves after cutting. Because of the way lasers work, if you want tight fits, you have to offset the finger and hole segments by half of the kerf-width. There are several ways to do this, but the tedious nature of the process led me to find a **plugin** that does both operations at once. Hundredths of an inch or millimeter can make or break a **snap-fit finger-joint** project. 
+
+The full details are boring but suffice to say the method I used is common. I measured my laser's kerf by cutting a 1" square out of the plywood and using my digital calipers to measure the actual width of the square. I subtracted the cut width from 1" and found my kerf value to be about 0.18", a very small number, but it's the key to the whole process. This is the number I enter in the plugin to to adjust the vector lines. Figuring out this step helped relieve some anxiety and sped up production by a factor of 3! Shout out to **Mapboards Pro!**
 
 -----------
 
