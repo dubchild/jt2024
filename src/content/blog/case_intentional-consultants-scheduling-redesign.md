@@ -11,146 +11,149 @@ tags:
 description:
   A loyal customer asked for help streamlining the scheduling/on-boarding experience for prospective clients. 
 ---
-![Alt text](../../assets/images/intentional/ic-banner.png)
+![header](../../assets/images/intentional/ic-banner.png)
 ## Table of contents
 
 ## *Streamlining the on-boarding experience*
 
-<!-- design process (1)
-interview results or questions (1)
-persona gallery (3)
-user journey flowchart (3)
-pencil wireframe sketches (3) 
-before/after screen slider widget? (2) -->
-
-
 ### **Summary**
 
-After working on several projects for a highly successful business **coaching and consulting business**, the CEO contacted us about evaluating the **scheduling features** on their site. Since there had been **ZERO sign-ups for months**, she was concerned that it was broken.
+The CEO of a highly successful **coaching and consulting business** contacted me about looking into the scheduling process on her site. There had been **ZERO sign-ups for months** so she was concerned that the feature was broken. Fortunately, I was able to repurpose data I had collected from a site audit I had completed months before.
 
-### **Problem**
-
-During a previous review we compiled a list of general notes and suggestions regarding the scheduling feature. The main issue we noticed was that the company's schedule was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the label indicated.
-
-### **Solution**
-
-Our initial suggestion was to use a more streamlined and user-friendly scheduling service that would also save them hundreds of dollars a year. Alternatively, we discussed a back-up plan that only required a simple form to collect contact info. While discussing options, the CEO indicated that she was in the middle of reorganizing the corporate structure and **didn't want to change anything** about their internal scheduling any time soon. 
-
-At that point it was clear that our **low-tech solution** was the **superior choice for the client**. We determined that it was important not to replace or disrupt their internal scheduling system. **Anticipating the needs of our client paid off** because we already had a basic plan drawn up that could implemented immediately. Our solution would be limited to **minor improvements** to their website and workflow. We focused our efforts on a design that **captures contact information** without invoking an automated scheduling service at all. For an added **personal touch**, a designated employee will follow-up with the prospective client directly.
-
-### **Tools**
-
-- Figma/Figjam
-- Google Docs
-<!-- - Uxfolio
-- Behance -->
+__***NOTE:***__ ***This is one of those projects that gets postponed or canceled for reasons outside of your control. It still serves as a good example of pivoting to meet the needs of a client.***
 
 <!-- ### **Team**
-
 - Jarrod Hurt - UX designer
 - Jared Taylor - UX designer -->
 
+### **Tools**
+- Figma/Figjam
+- Google Docs
+
 ### **Timeline**
 
-Overall: 6 weeks (July-October, 2023)
+Overall: 6 weeks (August-October, 2023)
 
 Discovery & Research: 4 weeks
 
 Design: 2 weeks
 
-**The Design Process**
+------------
 
-*[ insert DESIGN PROCESS image ]*
+### Problem
+
+The company was busy with current clients, but was concerned about missing growth opportunities as well. The main issue was that the company's scheduling feature on the web was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the labels indicated. All of their scheduling needs were provided by a popular 3rd-party service called Accuity, so I researched them and several competitors.
+
+----------
+
+### Solution
+
+My initial suggestion was to **use a more streamlined and user-friendly scheduling service** that would also save them hundreds of dollars a year. I compared their current solution to two alternative services I found offered a better solution and potential savings of hundreds of dollars per year.
+
+![img1](https://placehold.co/800x200/black/696969?text=Compare_Services)
+
+----------
+
+### Pivot
+
+The CEO had hired a new executive assistant who was in the middle of reorganizing the corporate structure and workflow. They weighed their options and decided that they  **didn't want to change anything** about their internal scheduling any time soon. Their concerns were valid so I suggested simplifying the scheduling page to remove distracting content and focus on the schedule. 
+
+At that point it was clear our **low-tech solution** was the **superior choice for the client**....right now. It was important not to replace or disrupt their internal scheduling system until they were ready. **Anticipating the needs of our client paid off** because we already had a plan that could implemented immediately. The solution would be limited to **minor improvements** to their website and workflow. The design would **capture contact information** without invoking an automated scheduling service at all. For an added **personal touch**, an admin will be designated to follow-up with the prospective client directly.
+
+----------
+
+## The Design Process
+
+This project was atypical because about half of the work had already been completed as part of a previous site audit. Insights from that audit allowed me to come up with a temporary solution that met their needs in the short term. 
+
+__***NOTE:***__ ***Priorities were changed during this project and it was put on the back burner until further notice. Some of the following steps are incomplete.***
+
+<!-- ![img1](https://placehold.co/800x200/black/696969?text=Design_Process) -->
 
 **Interviews**
 
-During the initial research phase of the project, we were able to reference previous interviews conducted with the CEO and 3 of her coaches, as well as personas that had already been developed.
+The interviews conducted with the CEO and 3 of her coaches as part of the previous site audit were invaluable. The main insight gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were **wary about significant change.** That information allowed efforts to be focused on a solution that would require minimal changes to their website and workflow.
 
-The main insight we gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were wary about changing anything process related. That information allowed us to focus our efforts on a low-tech solution that would require minimal changes to their website and workflow.
-
-*[ insert INTERVIEW image here]*
+![img2](https://placehold.co/800x200/black/696969?text=Interview_Insights)
 
 **Surveys**
 
-After the project kickoff, we defined our research strategy and objectives. Understanding the target audience and their challenges were our priority. First, we built an online survey and asked the CEO to forward it to her team and clients. In just a few days, we received 12 submissions. Based on these, we identified 5 common pain points to learn from.
+Understanding the target audience and their challenges was required before moving forward. I built an online survey and asked the CEO to pass it on to her team and clients. In just a few days 8 submissions were collected and analyzed to focus on 5 pain points.
 
-
-![Alt text](../../assets/images/intentional/survey-answers1.png)
+![img3](../../assets/images/intentional/survey-answers1.png)
 
 ***Everyone indicated that the current scheduling system is flawed.***
 
-Personas
+**Personas**
 
-We wanted to form a deeper understanding of our users' goals, needs, experiences, and behaviors. We used 3 personas to represent the users of the site - **administrators, coaches, and clients**. They were based on user interviews and surveys, and we kept updating them throughout the project as we gathered more data. We used these personas whenever we wanted to step out of ourselves and reconsider our initial ideas. 
+To form a deeper understanding of the users' goals, needs, experiences, and behaviors, 3 personas were used to represent the users of the site - **administrators, coaches, and clients**. Roleplaying the personas helped to break incorrect preconceptions and reconsider flawed assumptions. 
 
-*[ insert PERSONA gallery? 3 images]*
+![img4](https://placehold.co/800x200/black/696969?text=Persona_Gallery)
 
-User Journey
+**User Journey**
 
-With the business goal in mind, we make sure that clients schedule the initial consultation scheduling with minimal friction. To that end, we sketched a current-state user journey map, to focus on opportunities for improvement. We identified 2 unnecessary steps and several potential frictions points in the flow. By eliminating these from the new design, we ended up with a much smoother experience that will increase click-through rates.
+Potential clients should be able to schedule the initial consultation with minimal friction. To that end, I sketched a current-state user journey map, to focus on opportunities for improvement. Two unnecessary steps and several potential problems were identified. By eliminating these from the new design, a much smoother experience was crafted to increase click-through rates.
 
-**• scheduling process promises "schedule now" but requires way too many clicks**
+- site advertises "Schedule Now" but requires way too many clicks
+- UI is confusing; duplicated information and too much text
+- potential clients may be scared away because you appear too busy to meet with them
 
-**• interface is confusing with duplicated information and too much text**
+![img5](https://placehold.co/800x200/black/696969?text=User_Journey)
 
-**• showing a full calendar may indicate that your business is too busy for new clients**
+**Sketches**
 
-*[ insert USER JOURNEY image/gallery ]*
+I began the design process with low-fidelity sketches and wireframes to accelerate decision-making. They were based on the initial user interviews, the business goal, and the heuristic evaluation. Everything pointed to the fact that there were too many distractions to be effective. 
 
-Sketches
+![img6](https://placehold.co/800x200/black/696969?text=Sketches)
 
-I began the design process with low-fidelity sketches and wireframes to accelerate decision-making through visualization without losing time. My sketches were based on the initial user interviews, the business goal, and the heuristic evaluation. They each pointed to the fact that there were too many distractions in the flow. We came back to the sketches throughout the entire design process to make sure that we don’t lose sight of our primary goals and ideas.
+**Wireframes**
 
-*[ insert SKETCHES image/gallery ]*
+I translated the sketches into low-fidelity wireframes in figma and came up with simplified copy that provided more transparency into the process. At this stage, the wireframes were defined enough for some user testing. 
 
-Wireframes
+**NOTE:** __If the project had continued, more hi-fi mockups that reflected the scheduling interface would have been explored.__
 
-Using Figma, we translated our first sketches into low-fidelity wireframes. Then, we improved them by adding a few relevant stock images and rewrote the copy using ChatGPT. At this stage, the wireframes were defined enough for some user testing. Based on 4 tests, we made a few alternatives and moved on to creating high-fidelity prototypes.
+**Usability Testing**
 
-Usability Testing
-
-When we got to usability testing our solution, the project had been to be put on hold. We had no choice but to wrap up this project and move on to the next one. Here are couple of issues that we had plans to address.
+I had no choice but to wrap up this project prematurely. Had it continued here are a couple of issues that would be addressed.
 
 **Should the client be scheduled automatically on a "first come, first serve" basis, by phone call, or allow the client to choose?**
 
-We were anxious to test whether clients preferred being scheduled into a consultation slot automatically in the order they apply? Our idea would have A/B tested an automatic scheduling system versus a simulated phone call from a representative. A follow-up survey would have asked about their experience and preference.
+Whether clients preferred being scheduled into a consultation slot automatically in the order they apply would have been great data to collect. A/B testing could be used to compare an automatic scheduling system to a simulated phone call from a representative. A follow-up survey would have asked about their experience and preference.
 
-Our hypothesis was that a phone call would help build positive rapport, establish a personal connection immediately, and get the client excited to move forward. For the business, it also could serve as a way to eliminate less committed clients that aren't actually ready for the next step.
+I thought a phone call could help build positive rapport by establishing a personal connection immediately, and getting the client excited to move forward. Additionally, it ***could serve as a way to avoid less committed clients*** that aren't actually ready for the next step.
 
-**Should we prioritize usability for Intentional or for their clients?**
+**Should usability be focused on staff or for their clients?**
 
-We talked about making a survey for our clients staff to determine where their concerns and preferences lie. **Should scheduling be automatic, or do they see value in the personal touch?**
+We talked about making a survey for staff to determine where their concerns and preferences lie. **Is automatic scheduling effective, or do they see added value in the personal touch?**
 
-[ insert **before and after screens**]
+![img7](https://placehold.co/800x200/black/696969?text=Before_and_After)
 
-UI Design
+**UI Design**
 
 Once the usability issues were resolved, we moved on to design the final screens in Figma. The goal was to create a simple, inviting, and effective scheduling system that completely matches the current look and feel of the site. The client already has defined style and branding so we really only had to concentrate on the simplifying the layout and process. 
 
-
-
 We approach all of our work with a "mobile-first" philosophy. From previous projects, we know that the mobile stats lean highly towards modern iPhones so we keep that in mind at all times.
 
-[ insert figma screens (3)]
+![img8](https://placehold.co/800x200/black/696969?text=Figma_Screens)
 
-Next steps
+## Next Steps
 
 We were excited to have a crack at redesigning the scheduling process but due to being in the middle of corporate restructuring, the CEO had to decline any further work at the time. She knows the process needs to change is receptive to our findings. She just isn't ready to move forward until 2024. 
 
-**Takeaways**
+## Takeaways
 
 The main thing we learned is that convincing a company to change their scheduling process is a difficult road. If we continued, we would have liked to do more work with personas and testing. Hopefully we revisit the scheduling process next year, but in the meantime we are happy with our low-tech solution that can be implemented by any front-end developer in minutes. A few notes to consider:
 
-
-
 • Clients don't like to change their software, even if they hate the software
-
 • Sometimes the best solutions involve modifying an existing process
-
 • Some clients are impressed by low-tech (low-cost!) solutions
-
-
 
 Thanks for reading! 
 
-If you'd like to get in touch contact **jaredtaylor5446@gmail.com**.
+-jt
+
+Reference: https://intentionalconsultants.com **CHANGE TARGET TO _BLANK**
+<br/><br/>
+<!-- If you'd like to get in touch contact **jaredtaylor5446@gmail.com**. -->
+
+
