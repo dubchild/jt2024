@@ -1,12 +1,14 @@
 ---
 author: Jared Taylor
-pubDatetime: 2023-09-27T15:22:00Z
+pubDatetime: 2023-09-27T17:06:20Z
 title: "Intentional Consultants: Scheduling Redesign"
 slug: "intentional-consultants-scheduling-redesign"
 featured: true
 draft: false
 tags:
   - case study
+  - figma
+  - user testing
   - www
 description:
   A loyal customer asked for help streamlining the scheduling/on-boarding experience for prospective clients. 

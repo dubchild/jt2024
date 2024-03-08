@@ -1,6 +1,6 @@
 ---
 author: Jared Taylor
-pubDatetime: 2023-08-27T15:22:00Z
+pubDatetime: 2023-07-03T08:29:18Z
 title: "Intentional Consultants: Website Audit"
 slug: "intentional-consultants-website-audit"
 featured: true
