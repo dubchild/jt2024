@@ -22,19 +22,12 @@ description:
 
 ## TL;DR
 
-I did an extensive site audit that produced a blueprint for the client to approve and share with their developers. I collected existing personas, crafted user journeys, and interviewed people representing a variety of roles.
+I did an extensive site audit that produced a blueprint for my client to approve and share with their developers. I declined to step on any other devs toes and just provided the suggestions to improve the site for different groups of users. 
 
 ### **Tools**
 
 - Figma/Figjam
 - Google Docs
-<!-- - Uxfolio
-- Behance -->
-
-<!-- ### **Team**
-
-- Jarrod Hurt - UX designer
-- Jared Taylor - UX designer -->
 
 ### **Timeline**
 
@@ -46,17 +39,17 @@ Design: 2 weeks
 
 ### **Summary**
 
-After working on several projects for a highly successful business **coaching and consulting business**, the CEO contacted us about evaluating the **scheduling features** on their site. Since there had been **ZERO sign-ups for months**, she was concerned that it was broken.
+After working on several projects for a highly successful business **coaching and consulting business**, the CEO contacted me about evaluating the **scheduling features** on their site. Since there had been **ZERO sign-ups for months**, she was concerned that it was broken.
 
 ### **Problem**
 
-During a previous discussion we compiled a list of general notes and suggestions regarding the scheduling feature. The main issue we noticed was that the company's schedule was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the label indicated.
+During a previous discussion I compiled a list of general notes and suggestions regarding the scheduling feature. The main issue we noticed was that the company's schedule was **booked solid for months**, making it **impossible** for new clients **to schedule a timely consultation**. Furthermore, the feature was confusing, with duplicated information and CTAs that didn't directly do what the label indicated.
 
 ### **Solution**
 
 Our initial suggestion was to use a more streamlined and user-friendly scheduling service that would also save them hundreds of dollars a year. Alternatively, we discussed a back-up plan that only required a simple form to collect contact info. While discussing options, the CEO indicated that she was in the middle of reorganizing the corporate structure and **didn't want to change anything** about their internal scheduling any time soon. 
 
-At that point it was clear that our **low-tech solution** was the **superior choice for the client**. We determined that it was important not to replace or disrupt their internal scheduling system. **Anticipating the needs of our client paid off** because we already had a basic plan drawn up that could implemented immediately. Our solution would be limited to **minor improvements** to their website and workflow. We focused our efforts on a design that **captures contact information** without invoking an automated scheduling service at all. For an added **personal touch**, a designated employee will follow-up with the prospective client directly.
+At that point it was clear that the **low-tech solution** was the **superior choice for the client**. It was important not to replace or disrupt their internal scheduling system. **Anticipating the needs of the client paid off** because I already had a basic plan drawn up that could implemented immediately. The solution would be limited to **minor improvements** to their website and workflow. I focused my efforts on a design that **captures contact information** without invoking an automated scheduling service at all. For an added **personal touch**, a designated employee will follow-up with the prospective client directly.
 
 **The Design Process**
 
@@ -64,15 +57,15 @@ At that point it was clear that our **low-tech solution** was the **superior cho
 
 **Interviews**
 
-During the initial research phase of the project, we were able to reference previous interviews conducted with the CEO and 3 of her coaches, as well as personas that had already been developed.
+During the initial research phase of the project, I was able to reference previous interviews conducted with the CEO and 3 of her coaches, as well as personas that had already been developed.
 
-The main insight we gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were wary about changing anything process related. That information allowed us to focus our efforts on a low-tech solution that would require minimal changes to their website and workflow.
+The main insight gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were wary about changing anything process related. That information allowed me to focus efforts on a low-tech solution that would require minimal changes to their website and workflow.
 
 *[ insert INTERVIEW image here]*
 
 **Surveys**
 
-After the project kickoff, we defined our research strategy and objectives. Understanding the target audience and their challenges were our priority. First, we built an online survey and asked the CEO to forward it to her team and clients. In just a few days, we received 12 submissions. Based on these, we identified 5 common pain points to learn from.
+After the project kickoff, I defined my research strategy and objectives. Understanding the target audience and their challenges were our priority. First, I built an online survey and asked the CEO to forward it to her team and clients. In just a few days, we received 12 submissions. Based on these, I identified 5 common pain points to learn from.
 
 
 ![Alt text](../../assets/images/intentional/survey-answers1.png)
@@ -81,13 +74,13 @@ After the project kickoff, we defined our research strategy and objectives. Unde
 
 Personas
 
-We wanted to form a deeper understanding of our users' goals, needs, experiences, and behaviors. We used 3 personas to represent the users of the site - **administrators, coaches, and clients**. They were based on user interviews and surveys, and we kept updating them throughout the project as we gathered more data. We used these personas whenever we wanted to step out of ourselves and reconsider our initial ideas. 
+I wanted to form a deeper understanding of our users' goals, needs, experiences, and behaviors. I used 3 personas to represent the users of the site - **administrators, coaches, and clients**. They were based on user interviews and surveys, and I kept updating them throughout the project as more data came in. These personas we used whenever I wanted to step out of myself and reconsider my initial ideas. 
 
 *[ insert PERSONA gallery? 3 images]*
 
 User Journey
 
-With the business goal in mind, we make sure that clients schedule the initial consultation scheduling with minimal friction. To that end, we sketched a current-state user journey map, to focus on opportunities for improvement. We identified 2 unnecessary steps and several potential frictions points in the flow. By eliminating these from the new design, we ended up with a much smoother experience that will increase click-through rates.
+First impressions being so important, it's my goal to make sure that clients experience the initial consultation scheduling with minimal friction. To that end, I sketched a current-state user journey map, to focus on opportunities for improvement. I identified 2 unnecessary steps and several potential kinks in the flow. By eliminating these from the new design, we can build a much smoother experience that will increase click-through rates and bring in new business from the website.
 
 **• scheduling process promises "schedule now" but requires way too many clicks**
 
@@ -99,23 +92,23 @@ With the business goal in mind, we make sure that clients schedule the initial c
 
 Sketches
 
-I began the design process with low-fidelity sketches and wireframes to accelerate decision-making through visualization without losing time. My sketches were based on the initial user interviews, the business goal, and the heuristic evaluation. They each pointed to the fact that there were too many distractions in the flow. We came back to the sketches throughout the entire design process to make sure that we don’t lose sight of our primary goals and ideas.
+I began the design process with low-fidelity sketches and wireframes to accelerate decision-making through visualization without losing time. My sketches were based on the initial user interviews, the business goal, and the heuristic evaluation. They each pointed to the fact that there were too many distractions in the flow. I came back to the sketches throughout the entire design process to make sure not to lose sight of our primary goals and ideas.
 
 *[ insert SKETCHES image/gallery ]*
 
 Wireframes
 
-Using Figma, we translated our first sketches into low-fidelity wireframes. Then, we improved them by adding a few relevant stock images and rewrote the copy using ChatGPT. At this stage, the wireframes were defined enough for some user testing. Based on 4 tests, we made a few alternatives and moved on to creating high-fidelity prototypes.
+Working in Figma, I translated my sketches into low-fidelity wireframes. Then, I improved them by adding a few relevant stock images and rewrote some of the copy using ChatGPT. At this stage, the wireframes were defined enough for some user testing. Based on 4 tests, I made a few alternatives and moved on to creating high-fidelity prototypes.
 
 Usability Testing
 
-When we got to usability testing our solution, the project had been to be put on hold. We had no choice but to wrap up this project and move on to the next one. Here are couple of issues that we had plans to address.
+When it came to usability testing, the project had been to be put on hold. I had no choice but to wrap up this project and move on to the next one. Here are couple of issues that I wanted to address in the future.
 
 **Should the client be scheduled automatically on a "first come, first serve" basis, by phone call, or allow the client to choose?**
 
-We were anxious to test whether clients preferred being scheduled into a consultation slot automatically in the order they apply? Our idea would have A/B tested an automatic scheduling system versus a simulated phone call from a representative. A follow-up survey would have asked about their experience and preference.
+I wanted to test whether clients preferred being scheduled into a consultation slot automatically. I would have A/B tested an automatic scheduling system versus a simulated phone call from a representative. A follow-up survey would have asked about their experience and preference.
 
-Our hypothesis was that a phone call would help build positive rapport, establish a personal connection immediately, and get the client excited to move forward. For the business, it also could serve as a way to eliminate less committed clients that aren't actually ready for the next step.
+My hypothesis was that a phone call would help build positive rapport, establish a personal connection immediately, and get the client excited to move forward. For the business, it also could serve as a way to eliminate less committed clients that aren't actually ready for the next step.
 
 **Should we prioritize usability for Intentional or for their clients?**
 
