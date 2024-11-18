@@ -52,7 +52,7 @@ The company was busy with current clients, but was concerned about missing growt
 
 My initial suggestion was to **use a more streamlined and user-friendly scheduling service** that would also save them hundreds of dollars a year. I compared their current solution to two alternative services I found offered a better solution and potential savings of hundreds of dollars per year.
 
-![img1](https://placehold.co/800x200/black/696969?text=Compare_Services)
+<!-- ![img1](https://placehold.co/800x200/black/696969?text=Compare_Services) -->
 
 ----------
 

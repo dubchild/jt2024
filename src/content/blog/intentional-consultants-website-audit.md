@@ -22,7 +22,9 @@ description:
 
 ## TL;DR
 
-I did an extensive site audit that produced a blueprint for my client to approve and share with their developers. I declined to step on any other devs toes and just provided the suggestions to improve the site for different groups of users. 
+I did an extensive site audit that produced a blueprint for my client to approve and share with their developers. I declined to step on any other devs toes and just provided the suggestions to improve the site for different groups of users. Many of the images are slides from the final document you can see here:
+
+INSERT FINAL DOC PDF.
 
 ### **Tools**
 
@@ -53,20 +55,21 @@ At that point it was clear that the **low-tech solution** was the **superior cho
 
 **The Design Process**
 
-*[ insert DESIGN PROCESS image ]*
+![design-process](../../assets/images/intentional/ic-process.png)
 
-**Interviews**
-
-During the initial research phase of the project, I was able to reference previous interviews conducted with the CEO and 3 of her coaches, as well as personas that had already been developed.
-
-The main insight gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were wary about changing anything process related. That information allowed me to focus efforts on a low-tech solution that would require minimal changes to their website and workflow.
-
-*[ insert INTERVIEW image here]*
-
-**Surveys**
+**Surveys & Interviews**
 
 After the project kickoff, I defined my research strategy and objectives. Understanding the target audience and their challenges were our priority. First, I built an online survey and asked the CEO to forward it to her team and clients. In just a few days, we received 12 submissions. Based on these, I identified 5 common pain points to learn from.
 
+During the initial research phase of the project, I was able to reference previous interviews conducted with the CEO and 3 of her coaches, as well as personas that had already been developed.
+
+- everyone had problems with the scheduling process
+- customers had trouble scheduling appointments through the app
+- employees desire a way to edit their own profile 
+- employees desire a way to schedule their own appointments easily
+- the mobile version of the site made scheduling hard
+
+The main insight gained was that while they were interested in changing their scheduling software in the future, and had many discussions about it, they were wary about changing anything process related. That information allowed me to focus efforts on a low-tech solution that would require minimal changes to their website and workflow.
 
 ![Alt text](../../assets/images/intentional/survey-answers1.png)
 
@@ -75,8 +78,8 @@ After the project kickoff, I defined my research strategy and objectives. Unders
 Personas
 
 I wanted to form a deeper understanding of our users' goals, needs, experiences, and behaviors. I used 3 personas to represent the users of the site - **administrators, coaches, and clients**. They were based on user interviews and surveys, and I kept updating them throughout the project as more data came in. These personas we used whenever I wanted to step out of myself and reconsider my initial ideas. 
-
-*[ insert PERSONA gallery? 3 images]*
+ 
+![Alt text](../../assets/images/intentional/ic-personas3up.png)
 
 User Journey
 
@@ -88,13 +91,13 @@ First impressions being so important, it's my goal to make sure that clients exp
 
 **• showing a full calendar may indicate that your business is too busy for new clients**
 
-*[ insert USER JOURNEY image/gallery ]*
+***I chose not to include these images because of proprietary content.***
 
 Sketches
 
 I began the design process with low-fidelity sketches and wireframes to accelerate decision-making through visualization without losing time. My sketches were based on the initial user interviews, the business goal, and the heuristic evaluation. They each pointed to the fact that there were too many distractions in the flow. I came back to the sketches throughout the entire design process to make sure not to lose sight of our primary goals and ideas.
 
-*[ insert SKETCHES image/gallery ]*
+![Alt text](../../assets/images/intentional/ic-upgrade-sketches.png)
 
 Wireframes
 

@@ -3,8 +3,8 @@ title: //title
 author: Jared Taylor
 pubDatetime: 2023-10-23T13:22:00Z
 slug: "- - - -"
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - case study
   - product design

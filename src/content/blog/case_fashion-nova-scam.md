@@ -12,7 +12,6 @@ description:
   aflajdskfjalsdfj
 ---
 ![img1](https://placehold.co/800x200/black/696969?text=cover_image)
-<!-- ![aa](@assets/images/mario_blocks/mario_block_collage1.png) -->
 ### This is a spec proposal for an app I came up with for a job that turned out to be an elaborate scam. Someone posing as an HR rep at FashionNova contacted me. The job was real, but the person I was contacted by was a scammer.
 
 After passing multiple rounds of interviews, including this spec project, they tried to rope me into some identity theft and fraud scheme. I apologize that it's not complete, but it was never a real thing and I put too much work into it not to show somewhere.
@@ -45,7 +44,6 @@ _____________
 ### **Problem**
 The spec guidelines told me to make up a proposal for a product. That was it. I asked for more detail and was told that everything was up to me. It was intended to be vague in order to gauge potential hires skillset. They essentially said "show off what you can do." Okay. Bet... 
 <br/><br/>
-![Alt text](../../assets/images/mysterio-media-center/client-msg2.png)
 
 ***AI was recently gaining more attention so I immediately thought of something to generate ideas for an AI-enabled fast fashion app.***
 _____________
