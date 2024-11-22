@@ -58,7 +58,7 @@ _____________
 ### **Problem**
 
 <br/><br/>
-![Alt text](../../assets/images/mysterio-media-center/client-msg2.png)
+<!-- ![Alt text](../../assets/images/mysterio-media-center/client-msg2.png) -->
 
 ***YC's choice to illustrate the concept with fridge magnets was adorable.***
 _____________
