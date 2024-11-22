@@ -12,7 +12,7 @@ For the last few years I've pursued my interests in designing and making physica
 <div class="size-full bg-black h-40 flex items-center justify-center text-white">
  [ image slot ]<!-- <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration"> -->
 </div>
-
+  
 ## Tech Stack
 
 This site has been updated to <a href="https://astro.build" target="_blank">Astro.js 4.x</a> It has some fancy screen transitions that imitate SPA behavior, while being a static site. It is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some basic interactions. TailwindCSS is used for styling; and Markdown is used for blog and page content. The site is fast AF and scores 100s on Google Lighthouse.

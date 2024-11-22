@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import Pandabox from "@components/Pandabox.astro";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
@@ -9,11 +10,12 @@ import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SOCIALS } from "@config";
+import { ViewTransitions } from "astro:transitions";
 
 import { Icon } from 'astro-icon/components';
 
 const posts = await getCollection("blog");
-
+const galleries = await getCollection("galleries");
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
@@ -31,6 +33,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         
         [ image slot ]
       </div> -->
+      <Pandabox galleryid="panda" transitionType="fade" />
       <strong><em>Tinker...Tailor...Solder...Try </em></strong>
       <p>
         Hi! I'm Jared Taylor, a designer, developer and maker with over 20 years of experience. This is selection of case studies combining a variety of overlapping disciplines including web design, graphic design, UI/UX, e-commerce, marketing, electronics, animation, parametric CAD and 3D modeling. 
@@ -62,7 +65,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       }
       -->
     </section>
-    
+
+ 
     <Hr />
 
     {
@@ -170,3 +174,4 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     bottom: -.1em;
   }
 </style>
+

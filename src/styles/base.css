@@ -28,6 +28,7 @@
   }
 a{
   color: rgb(var(--color-accent));
+  text-decoration: none !important;
 }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {

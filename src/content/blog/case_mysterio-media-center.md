@@ -13,9 +13,9 @@ description:
 ---
 ![img1](https://placehold.co/800x200/black/696969?text=mysterio-final-render)
 <!-- ![aa](@assets/images/mario_blocks/mario_block_collage1.png) -->
-### In January of 2024, I got a call from a close friend who was interested in commissioning a custom media center. B wanted to know if I could design a custom piece to fit in a small alcove in his girlfriend's house. I tried to document the whole process here in the same way I would present a case study for a website. 
+### In January of 2024, I got a call from a close friend who wanted to commission a custom media center. B wanted to know if I could design something to fit in a small alcove in his girlfriend's house. I tried to document the whole process here in the same way I would present a case study for a website. My friends love it and that's the most important thing. I also learned a lot and have more confidence in my design and planning skills that I can put to use in future projects.
 
-Over the next few months we met to discuss size requirements and finishing options. Open source furniture designs gave me a lot of ideas to explore and I settled on three different designs. They liked all of the designs equally, and took their time making a decision. We eventually decided on a combination of features from all the designs. Needless to say, I got a lot of 3D-modeling experience on this project.
+Over the next few months we met to discuss size requirements and finishing options. Open source furniture designs gave me a lot of ideas to explore and I settled on three different designs. They liked all of the designs equally, and took their time making a decision. We eventually decided on a combination of features from all the designs. Needless to say, I got a lot of 3D-modeling experience on this project. 
 
 <!-- ![alt text](../../assets/images/mysterio-media-center/client-text1)  -->
 
@@ -61,7 +61,7 @@ B's girlfriend, D, bought a house and she wants a custom media center to fit int
 ### Project Discovery
 I went to the house to take measurements and pitch my ideas. I thought they wanted a built-in so I proposed running rails along the side walls, but that was dismissed immediately. They were adamant that the piece should be free-standing, so it could be moved in the future.
 
-I measured the alcove with a laser and took photos for reference. I also took note of the thick baseboard trim to make sure the legs of the cabinet would fit in the available floor space. I examined the cabinet they were replacing and loved the hidden drawer it had under the top rail. They asked if it was possible to include a similar feature in my piece. Yes, please! I've always wanted to make something with hidden drawers. Hell, why not 2 hidden drawers?
+I measured the alcove with a laser and took photos for reference. I also took note of the thick baseboard trim to make sure the legs of the cabinet would fit in the available floor space. I examined the cabinet they were replacing and loved the hidden drawer it had under the top rail. They asked if it was possible to include a similar feature in my piece. Yes, please! I've always wanted to make something with hidden drawers. Well, why not TWO hidden drawers?
 
 ![img1](https://placehold.co/800x200/black/696969?text=prototype1)
 

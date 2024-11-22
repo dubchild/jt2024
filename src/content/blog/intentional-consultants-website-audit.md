@@ -103,6 +103,7 @@ Wireframes
 
 Working in Figma, I translated my sketches into low-fidelity wireframes. Then, I improved them by adding a few relevant stock images and rewrote some of the copy using ChatGPT. At this stage, the wireframes were defined enough for some user testing. Based on 4 tests, I made a few alternatives and moved on to creating high-fidelity prototypes.
 
+
 Usability Testing
 
 When it came to usability testing, the project had been to be put on hold. I had no choice but to wrap up this project and move on to the next one. Here are couple of issues that I wanted to address in the future.

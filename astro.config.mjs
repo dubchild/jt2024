@@ -7,15 +7,16 @@ import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 import sentry from "@sentry/astro";
 import spotlightjs from "@spotlightjs/astro";
-
 import icon from "astro-icon";
+import mdx from "@astrojs/mdx";
+
 
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
   integrations: [tailwind({
     applyBaseStyles: false
-  }), react(), sitemap(), sentry(), spotlightjs(), icon()],
+  }), react(), sitemap(), sentry(), spotlightjs(), icon(), mdx()],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, {
       test: "Table of contents"

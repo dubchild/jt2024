@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "src": "@images/pandas/panda-01.jpg",
+      "alt": "A cute panda munching on bamboo",
+      "title": "Bamboo Lover",
+      "description": "Pandas can eat up to 38 kilograms (84 pounds) of bamboo a day!"
+    },
+    {
+      "src": "@images/pandas/panda-02.jpg",
+      "alt": "A panda resting peacefully",
+      "title": "Sleepy Panda",
+      "description": "Pandas spend 12-16 hours a day eating, and the rest of the time they are usually sleeping."
+    },
+    {
+      "src": "@images/pandas/panda-03.jpg",
+      "alt": "A curious panda exploring its surroundings",
+      "title": "Exploring Panda",
+      "description": "Pandas have a great sense of smell, which helps them detect food and other pandas."
+    }
+  ]
+}

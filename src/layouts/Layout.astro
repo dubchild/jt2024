@@ -31,6 +31,7 @@ const socialImageURL = new URL(
   ogImage ?? SITE.ogImage ?? "og.png",
   Astro.url.origin
 ).href;
+
 ---
 
 <!doctype html>
@@ -47,6 +48,7 @@ const socialImageURL = new URL(
 
     <!-- General Meta Tags -->
     <title>{title}</title>
+    <ViewTransitions />
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
@@ -105,7 +107,7 @@ const socialImageURL = new URL(
       )
     }
 
-    <ViewTransitions />
+    
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>
