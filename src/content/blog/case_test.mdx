@@ -14,13 +14,17 @@ description:
 ---
 
 import Pandabox from "@components/Pandabox.astro";
+import Pandabox3 from "@components/Pandabox.astro";
 
 ### Posted by: {frontmatter.author}
 
 # {frontmatter.title}
+<Pandabox galleryid="panda" transitionType="fade" class="block"/>
 
-<Pandabox galleryid="jwst" transitionType="fade" />
+
+<Pandabox3 galleryid="jwst" transitionType="fade" class="block"/>
 
 ### gallery2
 
-<Pandabox galleryid="panda" transitionType="fade" />
+
+
